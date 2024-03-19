@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@slxca/fetchr": "^0.3.6-test"
+    "@slxca/fetchr": "^1.0.0"
   }
 }
