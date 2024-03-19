@@ -1,0 +1,8 @@
+
+config:
+  baseURL: "https://api.example.com"
+
+routes:
+  test:
+    endpoint: "/test"
+    method: "GET"
